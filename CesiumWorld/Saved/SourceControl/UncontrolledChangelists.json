@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/Geo/CesiumWorld/Content/Blueprints/Bp_VRPawn.uasset",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/Geo/CesiumWorld/Content/Blueprints/UIPopup.uasset",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/Geo/CesiumWorld/Content/TrialMaps/TriMap.umap",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/Geo/CesiumWorld/Content/Blueprints/Bp_PlayerControl.uasset",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/Geo/CesiumWorld/Content/Blueprints/Bp_GameMode.uasset",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/Geo/CesiumWorld/Content/Blueprints/WBP_CoordinateDisplay.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Marketplace/Cesiumfo4a28c7d2eeceV9/Content/DynamicPawn.uasset",
 				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/CesiumWorld/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/CesiumWorld/Content/CesiumSettings/CesiumIonServers/CesiumIonSaaS.uasset",
 				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/CesiumWorld/Content/TrialMaps/GeoMap.umap",
