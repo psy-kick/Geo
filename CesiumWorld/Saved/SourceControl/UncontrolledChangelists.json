@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/CesiumWorld/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/CesiumWorld/Content/CesiumSettings/CesiumIonServers/CesiumIonSaaS.uasset",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/CesiumWorld/Content/TrialMaps/GeoMap.umap",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/CesiumWorld/Content/FirstPerson/MI_FirstPersonColorway.uasset",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/CesiumWorld/Content/Blueprints/Bp_Building.uasset",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/CesiumWorld/Content/Blueprints/Bp_PlayerControl.uasset",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/CesiumWorld/Content/TrialMaps/SandboxMap.umap",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/CesiumWorld/Content/Blueprints/Bp_GameMode.uasset",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/CesiumWorld/Content/Blueprints/Bp_staticpawn.uasset",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/CesiumWorld/Content/TrialMaps/TriMap.umap",
+				"C:/Users/rockn/OneDrive/Documents/Unreal Projects/CesiumWorld/Content/TrialMaps/TrialMap.umap"
+			]
+		}
+	]
+}
