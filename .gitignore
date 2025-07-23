@@ -74,3 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 CesiumWorld/cesium-request-cache.sqlite
 CesiumWorld/Saved/Logs/CesiumWorld.log
+/CesiumWorld/Saved/Logs
+/CesiumWorld/Saved/Logs
+*.log
