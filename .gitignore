@@ -77,3 +77,7 @@ CesiumWorld/Saved/Logs/CesiumWorld.log
 /CesiumWorld/Saved/Logs
 /CesiumWorld/Saved/Logs
 *.log
+/CesiumWorld/Binaries
+/CesiumWorld/Intermediate
+/CesiumWorld/Intermediate
+/CesiumWorld/Saved
